@@ -19,21 +19,21 @@ import img14 from "../images/Snapchat-48777563.jpg";
 import img15 from "../images/Snapchat-664461343.jpg";
 
 const photos = [
-  { src: img1, caption: "Our memories 💕" },
-  { src: img2, caption: "Moments with you ❤️" },
-  { src: img3, caption: "Forever together 💑" },
-  { src: img4, caption: "Always smiling 😊" },
-  { src: img5, caption: "Happy times 🎉" },
-  { src: img6, caption: "Just us 💗" },
-  { src: img7, caption: "Candid moments 📸" },
-  { src: img8, caption: "Together forever 🌹" },
-  { src: img9, caption: "You and me 💕" },
-  { src: img10, caption: "Perfect day ✨" },
-  { src: img11, caption: "Cherished memories 🌟" },
-  { src: img12, caption: "Our story 💑" },
-  { src: img13, caption: "Every moment counts 💖" },
-  { src: img14, caption: "With you always ❤️" },
-  { src: img15, caption: "Our love 💕" },
+  { src: img1, caption: "Every Moment 💕" },
+  { src: img2, caption: "Spent with youu ❤️" },
+  { src: img3, caption: "Was Always Special for Me 💑" },
+  { src: img4, caption: "Eveyday I Loved YOUU😊" },
+  { src: img5, caption: "Moree and Moree 🎉" },
+  { src: img6, caption: "I Love Being With You 💗" },
+  { src: img7, caption: "Time is a Bitch to me📸" },
+  { src: img8, caption: "It runs too fast 🌹" },
+  { src: img9, caption: "Whenever we are together 💕" },
+  { src: img10, caption: "Thats why✨" },
+  { src: img11, caption: "I want you for Life 🌟" },
+  { src: img12, caption: "Soo Time wont be a Issue to me 💑" },
+  { src: img13, caption: "And I could spend my whole time  💖" },
+  { src: img14, caption: "With YOUU ❤️" },
+  { src: img15, caption: "And ONLY YOUUU💕" },
 ];
 
 const MemoryGallery: React.FC = () => {
