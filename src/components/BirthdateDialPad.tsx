@@ -91,7 +91,7 @@ const BirthdateDialPad: React.FC<BirthdateDialPadProps> = ({ onSuccess }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Enter Her Birthdate
+              Enter Your Birthdate Baccha
             </motion.h2>
 
             <motion.p
@@ -169,7 +169,7 @@ const BirthdateDialPad: React.FC<BirthdateDialPadProps> = ({ onSuccess }) => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.7 }}
             >
-              Unlock 💖
+              Check if its Correct 💖
             </motion.button>
           </div>
         </motion.div>
@@ -192,7 +192,7 @@ const BirthdateDialPad: React.FC<BirthdateDialPadProps> = ({ onSuccess }) => {
           >
             <span className="text-6xl">🎉</span>
             <p className="text-2xl font-bold text-primary mt-4" style={{ fontFamily: "'Playfair Display', serif" }}>
-              Welcome, my love!
+              Time to Blow up the Candles!
             </p>
           </motion.div>
         </motion.div>

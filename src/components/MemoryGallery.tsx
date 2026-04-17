@@ -19,21 +19,21 @@ import img14 from "../images/Snapchat-48777563.jpg";
 import img15 from "../images/Snapchat-664461343.jpg";
 
 const photos = [
-  { src: img1, caption: "Every Moment 💕" },
-  { src: img2, caption: "Spent with youu ❤️" },
-  { src: img3, caption: "Was Always Special for Me 💑" },
-  { src: img4, caption: "Eveyday I Loved YOUU😊" },
-  { src: img5, caption: "Moree and Moree 🎉" },
-  { src: img6, caption: "I Love Being With You 💗" },
-  { src: img7, caption: "Time is a Bitch to me📸" },
-  { src: img8, caption: "It runs too fast 🌹" },
-  { src: img9, caption: "Whenever we are together 💕" },
-  { src: img10, caption: "Thats why✨" },
-  { src: img11, caption: "I want you for Life 🌟" },
-  { src: img12, caption: "Soo Time wont be a Issue to me 💑" },
-  { src: img13, caption: "And I could spend my whole time  💖" },
-  { src: img14, caption: "With YOUU ❤️" },
-  { src: img15, caption: "And ONLY YOUUU💕" },
+  { src: img1, caption: "The Day I met you, I had No Idea 💕" },
+  { src: img2, caption: "That you would become everything to me ❤️" },
+  { src: img3, caption: "I didnt expect to find someone 💑" },
+  { src: img4, caption: "Who would change my Life Completly😊" },
+  { src: img5, caption: "But Every Day that Passed 🎉" },
+  { src: img6, caption: "You Became Than Just a Person I Love 💗" },
+  { src: img7, caption: "You Became My Reason📸" },
+  { src: img8, caption: "My Hope 🌹" },
+  { src: img9, caption: "MY Light in the Dark 💕" },
+  { src: img10, caption: "MY Pulse to My Heart✨" },
+  { src: img11, caption: "If I could put a Star each time🌟" },
+  { src: img12, caption: "You crossed my mind 💑" },
+  { src: img13, caption: "Then The Cosmos would be Jealous of Mee💖" },
+  { src: img14, caption: " I LOVEE YOUUUU❤️" },
+  { src: img15, caption: "FOR FOREVER AND EVER AND EVER💕" },
 ];
 
 const MemoryGallery: React.FC = () => {

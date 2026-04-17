@@ -45,7 +45,7 @@ const VideoMessage: React.FC = () => (
         <p className="p-4 text-center text-muted-foreground">Your browser does not support the video tag.</p>
       </video>
       <div className="p-5 text-center">
-        <p className="text-muted-foreground text-sm italic">Sorry, I didnt had much to say, but i really tried my best, Hope You Like it...❤️❤️❤️</p>
+        <p className="text-muted-foreground text-sm italic">Sorry, I didnt had much to say, Iam really bad in talking 😭😭, But I really tried whatever I can think of at that particular moment, Hope You Like it...❤️❤️❤️</p>
         <p className="text-muted-foreground text-sm italic">NOW YOU MAY OPEN YOUR GIFTS IN THE BOX😊😊</p>
       </div>
     </motion.div>
