@@ -11,13 +11,25 @@ const photos = [
 ];
 
 const letterLines = [
-  "Happy Birthday, AASHUU❤️",
+  "Happy Birthday, Aashuu ❤️",
 
-  "Today is not just about celebrating your birthday, it’s about celebrating the day the most beautiful part of my life came into this world. I don’t think I can ever fully express how grateful I am to have you, but I’ll try.",
+  "Today is not just about celebrating your birthday… it’s about celebrating the day the most beautiful part of my life came into this world. I don’t think I can ever fully express how grateful I am to have you, but I’ll try.",
 
-  "I still remember the very first time we went out together with friends to Xerbia… and that bike ride with you. Somewhere in those moments, without even realizing it, I started falling for you. And then that walk to R9 sector… I don’t know what it was, but something felt different. I had this quiet feeling that maybe… just maybe… you felt something too.",
-  "And then came the most special day of my life — 4th May 2025. That late-night call, where we finally confessed everything we felt… I can never forget that moment. It changed everything for me. It was the beginning of something so real, so beautiful, and so important to me.",
-  "Our first proper date to Pawna Lake... that day is something I’ll always hold close to my heart. Every laugh, every moment, every second with you felt perfect. And honestly, these past 11 months with you have been nothing less than amazing. Every memory we’ve created, every small moment, every smile — they all mean so much to me.",
+  "I still remember the very first time we went out together with friends to Xerbia… and that bike ride with you. Somewhere in those moments, without even realizing it, I started falling for you. And then that walk to R9 sector… I don’t know what it was, but something just felt different. I had this quiet feeling that maybe… just maybe… you felt something too.",
+  
+  "And then came the most special day of my life — 4th May 2025. That late-night call where we finally confessed everything we felt… I can never forget that moment. It changed everything for me. It was the beginning of something so real, so beautiful, and so important to me.",
+
+  "Our first proper date to Pawna Lake… that day is something I’ll always hold close to my heart. Every laugh, every moment, every second with you felt perfect. And honestly, these past 11 months with you have been nothing less than amazing. Every memory we’ve created, every small moment, every smile — they all mean so much to me.",
+
+  "I just want to say something from my heart…",
+
+  "I never changed my priorities… they are still the same as they were before. And you… you are not something that can ever be compared to anything or anyone else. You are incomparable, Aashi. I don’t even know how to properly explain how special you are to me… but you truly are, more than words can ever express.",
+
+  "And I’m really sorry…",
+  "When you said that you had to beg for my time, it honestly broke me from inside. I felt so miserable hearing that, because that was never my intention… not even for a second. I know things may not feel the same for you right now, and maybe you don’t trust me the same way anymore… but Aashi, my love for you hasn’t changed even a little bit. If anything, it has only grown stronger.",
+
+  "And the more I love you… the more I get scared of losing you.",
+  "You complete me, baccha… in ways I can’t explain. Life without you doesn’t even feel right. I truly can’t imagine being without you.",
 
   "I LOVED YOUU THEN,",
   "I LOVEE YOUU NOWW,",
