@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import MemoryGallery from "./MemoryGallery";
 import LoveLetter from "./LoveLetter";
@@ -15,6 +15,7 @@ const GiftBoxes: React.FC = () => {
 
   const handleOpen = (id: number) => {
     setOpenedBox(id);
+    window.history.pushState({ giftOpened: id }, "", window.location.href);
   };
 
   const handleBack = () => {
@@ -22,6 +23,18 @@ const GiftBoxes: React.FC = () => {
     // Scroll to top smoothly
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
+
+  // Handle mobile back button press
+  useEffect(() => {
+    const handlePopState = (e: PopStateEvent) => {
+      if (openedBox !== null) {
+        handleBack();
+      }
+    };
+
+    window.addEventListener("popstate", handlePopState);
+    return () => window.removeEventListener("popstate", handlePopState);
+  }, [openedBox]);
 
   return (
     <div className="min-h-screen relative">
