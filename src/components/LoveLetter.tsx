@@ -26,7 +26,7 @@ const letterLines = [
   "You’ve made my life happier, softer, and more meaningful in ways I never imagined. And on your birthday, I just want you to know that you are the most special person in my life.",
 
   "Happy Birthday once again, my love.",
-  "I'M SO LUCKY TO HAVE YOU SWEETHEART ❤️"
+  "I'M SO LUCKY TO HAVE YOU MYY SONNAAA ❤️"
 ];
 
 const LoveLetter: React.FC = () => {

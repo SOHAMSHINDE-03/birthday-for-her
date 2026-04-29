@@ -263,7 +263,7 @@ const CakeScreen: React.FC<CakeScreenProps> = ({ onComplete }) => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.5, duration: 0.6 }}
                       >
-                        😊 Thats Like MY GOOD GIRL! 😊
+                        😊 YAYYYYY 😊
                       </motion.p>
                     )}
                   </AnimatePresence>
